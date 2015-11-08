@@ -7,12 +7,28 @@ console.log(x);
 ++x;
 console.log(x);
 
+console.log("SUMAS");
 
 var y=1;
 var z=2;
-
-y=++z+y;
-console.log(y);
+ //Operador ++ por delante 
+//y=++z+y;
+//console.log(y);
 
 y= y +z++;
 console.log(y);
+
+console.log(z);
+
+console.log("RESTAS");
+
+var y=1;
+var z=2;
+ //Operador -- por delante 
+//y=--z-y;
+//console.log(y);
+
+y= y -z--;
+console.log(y);
+
+console.log(z);
