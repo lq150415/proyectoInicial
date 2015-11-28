@@ -14,6 +14,6 @@ var n=10;
 
 }
 var num=5;
-var ope="+";
+var ope="*";
 console.log("Tabla de multiplicar de: "+num);
 numero(num,ope);
